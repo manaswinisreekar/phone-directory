@@ -5,14 +5,14 @@ class App extends Component() {
   render(){
     return (
       <div>
-      Phone Directory
+       Phone Directory
             
         </div>
       );
     }
 
   }
-  
+
   
 
 export default App;
