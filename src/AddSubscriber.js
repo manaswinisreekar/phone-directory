@@ -5,7 +5,6 @@ import './AddSubscriber.css';
 class AddSubscriber extends Component{
     render(){
         return{
-            class AddSubscriber extends Component {
                 render() {
                     return (
                         <div>
