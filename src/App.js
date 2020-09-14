@@ -34,8 +34,9 @@ class App extends Component {
                 <span className="grid-item">{sub.phone}</span>
               </div>
             })
+
           }
-        </div>
+          </div>
       </div>
     );
-        }
+export default App;

@@ -1,0 +1,33 @@
+.subscriber-form{
+    margin-top:30px;
+    
+}
+.label-control{
+    columns: #880088;
+    font-size:1.15rm;
+    margin-right: 15px;
+}
+.input-control{
+    width:300px;
+    min-width:100px;
+    padding: 10px 15px;
+    display:inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 0.9rem;
+    outline:none;
+
+}
+.subscriber-info-container{
+    font-size: 1rem;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.subcriber-to-heading{
+    columns: #0a4750;
+    font-weight: 600;
+}
+.subscriber-info{
+    columns: #808080;
+}

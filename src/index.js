@@ -2,9 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
+import AddSubscriber from './AddSubscriber';
 
-ReactDOM.render(<p>HelloWorld</p>,document.getElementById('root'));
+import serviceWorker from './serviceWorker';
+import './common/common.css';
+
+
+ReactDOM.render(<p>AddSubscriber</p>,document.getElementById('root'));
 registerServiceWorker();
 
 
