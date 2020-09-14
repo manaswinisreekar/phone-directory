@@ -9,6 +9,8 @@ import './common/common.css';
 
 
 ReactDOM.render(<p>AddSubscriber</p>,document.getElementById('root'));
+ReactDOM.render(<p>App</p>,document.getElementById('root'));
+
 registerServiceWorker();
 
 
