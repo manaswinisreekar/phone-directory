@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import AddSubscriber from './AddSubscriber';
+import registerServiceWorker from './registerServiceWorker';
 
 import serviceWorker from './serviceWorker';
 import './common/common.css';
