@@ -31,4 +31,7 @@ class AddSubscriber extends Component{
                     )
                 }
             }
+    }
+}
+
 export default AddSubscriber;

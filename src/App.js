@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
-import './App.css';
+//import './App.css';
 
 
 class App extends Component {
@@ -34,12 +34,11 @@ class App extends Component {
                 <span className="grid-item">{sub.phone}</span>
               </div>
             })
-
           }
-          </div>
+        </div>
       </div>
     );
-        }
-      }
-      
-export default App;
+    }
+   
+  }
+  export default App; 

@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import AddSubscriber from './AddSubscriber';
+//import AddSubscriber from './AddSubscriber';
 import registerServiceWorker from './registerServiceWorker';
+
 
 import serviceWorker from './serviceWorker';
 import './common/common.css';
@@ -19,3 +20,10 @@ registerServiceWorker();
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+//export default App;
+
+export default ServiceWorker;
+
+//export default registerServiceWorker;
+
